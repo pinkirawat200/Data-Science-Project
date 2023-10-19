@@ -1,4 +1,4 @@
-# Demo
-This is my first Git Repository.
+# Data Science
+This is my Data Science Projects Hub.
 <br>
 Author - Pinki Rawat
